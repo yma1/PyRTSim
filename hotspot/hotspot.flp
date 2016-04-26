@@ -1,0 +1,7 @@
+# Simple Example Floorplan
+# Line Format: <unit-name>\t<width>\t<height>\t<left-x>\t<bottom-y>
+
+m1     0.009		0.009			0		0.009		
+m2     0.009		0.009			0.009		0.009
+m3     0.009		0.009			0		0
+m4     0.009		0.009			0.009		0	
